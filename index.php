@@ -4,7 +4,7 @@
 ###       ERROR REPORTING      ###
 ##################################
 
-$debug = false;
+$debug = false; //haloooo irvann
 
 if($debug == false) {
     error_reporting(0);
